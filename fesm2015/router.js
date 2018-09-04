@@ -1,5 +1,5 @@
 /**
- * @license Angular v6.1.6+1.sha-beda212
+ * @license Angular v6.1.6+1.sha-beda212.with-local-changes
  * (c) 2010-2018 Google, Inc. https://angular.io/
  * License: MIT
  */
@@ -6786,7 +6786,7 @@ function provideRouterInitializer() {
  * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
  */
 /** @type {?} */
-const VERSION = new Version('6.1.6+1.sha-beda212');
+const VERSION = new Version('6.1.6+1.sha-beda212.with-local-changes');
 
 /**
  * @fileoverview added by tsickle
